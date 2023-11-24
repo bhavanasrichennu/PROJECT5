@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Consensus Academy</title>
+    </head>
+    <body>
+        <center>
+            <h1>Consensus Academy < / ></h1>
+            <h4>Eat | Code | Sleep  |Repeat</h4>
+            <p><b>Empowering young developers to level up their skills through training in software development technologies.</b></p>
+            <iframe src="http://consensusacademy.in/" height="1000px" width="1000px"></iframe>
+            <p><b>what makes our training special?</b><br><br>
+                master in-demand techskills through industry grade industry-relavent project-based learning.<br>
+                our curriculum and hands-on training will help meritorious students achieve their career aspirations in the tech world.<br>
+                in a fragmented market dominated by traditional 'training vendors' and off the shelf operators,consensus is placed in an incomparable quadrant defined by its output orientation and a model built on delivery of high placement numbers consistently,efficiently and effectly.<br>
+                latest technologies that make you a full stack developer / frontend developer / backend devoleper / data scientist and much more......</p>
+               <h3>we divide our full stack training into 3 parts</h3>
+               <table>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Backend</li>
+                            <li>Frontend</li>
+                            <li>Database</li>
+                       </ul>
+                    </td>
+                </tr>
+               </table>
+               <h3>Technologies Used For Full Stack Development</h3>
+               <table border="1">
+                <tr>
+                    <th>Backend</th>
+                    <th>Frontend</th>
+                    <th>Database</th>
+                </tr>
+                <tr>
+                    <td>JAVA</td>
+                    <td>HTML</td>
+                    <td>MySQL</td>
+            </tr>
+            <tr>
+                <td>Python</td>
+                <td>CSS</td>
+                <td>AWS</td>
+            </tr>
+            <tr>
+                <td>Node JS</td>
+                <td>JavaScript</td>
+                <td>Mongo DB</td>
+            </tr>
+               </table>
+               <br>
+               <hr>
+               <a href="Form.html" target="_blank">Register For Course |</a>
+               <a href="http://Consensusacadeny.in/" target="_blank"> Our Website</a>
+               <br>
+               <hr>
+        </center>
+    </body>
+</html>
